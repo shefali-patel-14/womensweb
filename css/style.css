@@ -80,13 +80,18 @@ p{
     }
 
 div ul{
-
     margin-bottom: 30px;
     }
 
 a{
     color: #FA633D;
     }
+
+.wslink {
+    color: #FA633D;
+    font-weight: bold;
+    font-size: 19px;
+}
 
 footer p{
     color: aliceblue;
